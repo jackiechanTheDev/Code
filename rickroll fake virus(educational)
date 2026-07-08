@@ -1,0 +1,86 @@
+Set sh = CreateObject("WScript.Shell")
+
+
+x = MsgBox("virus detected", 4 + 64, "rickroll")
+x = MsgBox("virus detected", 4 + 64, "rickroll")
+x = MsgBox("virus detected", 4 + 64, "rickroll")
+x = MsgBox("virus detected", 4 + 64, "rickroll")
+x = MsgBox("virus detected", 4 + 64, "rickroll")
+x = MsgBox("virus detected", 4 + 64, "rickroll")
+x = MsgBox("virus detected", 4 + 64, "rickroll")
+x = MsgBox("virus detected", 4 + 64, "rickroll")
+x = MsgBox("virus detected", 4 + 64, "rickroll")
+x = MsgBox("virus detected", 4 + 64, "rickroll")
+x = MsgBox("virus detected", 4 + 64, "rickroll")
+x = MsgBox("virus detected", 4 + 64, "rickroll")
+x = MsgBox("virus detected", 4 + 64, "rickroll")
+x = MsgBox("virus detected", 4 + 64, "rickroll")
+x = MsgBox("virus detected", 4 + 64, "rickroll")
+x = MsgBox("virus detected", 4 + 64, "rickroll")
+WScript.Sleep 5000
+
+x = MsgBox("get rick rolled ;)", 4 + 64, "rickroll")
+
+sh.Run "cmd /k color a & cls & cmd /c curl ascii.live/can-you-hear-me", 1, True
+sh.Run "cmd /c curl ascii.live/can-you-hear-me", 1, True
+sh.Run "cmd /c curl ascii.live/can-you-hear-me", 1, True
+sh.Run "cmd /c curl ascii.live/can-you-hear-me", 1, True
+
+x = MsgBox("get rick rolled ;)", 4 + 64, "rickroll")
+x = MsgBox("get rick rolled ;)", 4 + 64, "rickroll")
+x = MsgBox("get rick rolled ;)", 4 + 64, "rickroll")
+
+sh.Run "cmd /c curl ascii.live/can-you-hear-me", 1, True
+sh.Run "cmd /c curl ascii.live/can-you-hear-me", 1, True
+sh.Run "cmd /c curl ascii.live/can-you-hear-me", 1, True
+sh.Run "cmd /c curl ascii.live/can-you-hear-me", 1, True
+
+x = MsgBox("get rick rolled ;)", 4 + 64, "rickroll")
+x = MsgBox("get rick rolled ;)", 4 + 64, "rickroll")
+
+sh.Run "cmd /c curl ascii.live/can-you-hear-me", 1, True
+sh.Run "cmd /c curl ascii.live/can-you-hear-me", 1, True
+sh.Run "cmd /c curl ascii.live/can-you-hear-me", 1, True
+sh.Run "cmd /c curl ascii.live/can-you-hear-me", 1, True
+
+x = MsgBox("get rick rolled ;)", 4 + 64, "rickroll")
+x = MsgBox("get rick rolled ;)", 4 + 64, "rickroll")
+x = MsgBox("get rick rolled ;)", 4 + 64, "rickroll")
+x = MsgBox("get rick rolled ;)", 4 + 64, "rickroll")
+
+
+sh.Run "cmd /c curl ascii.live/can-you-hear-me", 1, True
+sh.Run "cmd /c curl ascii.live/can-you-hear-me", 1, True
+
+x = MsgBox("get rick rolled ;)", 4 + 64, "rickroll")
+x = MsgBox("get rick rolled ;)", 4 + 64, "rickroll")
+x = MsgBox("get rick rolled ;)", 4 + 64, "rickroll")
+
+sh.Run "cmd /c curl ascii.live/can-you-hear-me", 1, True
+sh.Run "cmd /c curl ascii.live/can-you-hear-me", 1, True
+sh.Run "cmd /c curl ascii.live/can-you-hear-me", 1, True
+sh.Run "cmd /c curl ascii.live/can-you-hear-me", 1, True
+
+x = MsgBox("get rick rolled ;)", 4 + 64, "rickroll")
+x = MsgBox("get rick rolled ;)", 4 + 64, "rickroll")
+
+sh.Run "cmd /c curl ascii.live/can-you-hear-me", 1, True
+sh.Run "cmd /c curl ascii.live/can-you-hear-me", 1, True
+sh.Run "cmd /c curl ascii.live/can-you-hear-me", 1, True
+sh.Run "cmd /c curl ascii.live/can-you-hear-me", 1, True
+
+x = MsgBox("get rick rolled ;)", 4 + 64, "rickroll")
+x = MsgBox("get rick rolled ;)", 4 + 64, "rickroll")
+x = MsgBox("get rick rolled ;)", 4 + 64, "rickroll")
+x = MsgBox("get rick rolled ;)", 4 + 64, "rickroll")
+
+x = MsgBox("sending out ip address", 4 + 4, "sending ip")
+WScript.Sleep 5000
+x = MsgBox("ip sent Downloading virus 2", 4 + 64, "downloading")
+WScript.Sleep 2000
+x = MsgBox("virus 2 downloaded", 4 + 64, "Windows alert")
+WScript.Sleep 2000
+x = MsgBox("MALWARE", 4 + 64, "virus 2")
+x = MsgBox("MALWARE", 4 + 64, "virus 2")
+x = MsgBox("MALWARE", 4 + 64, "virus 2")
+x = MsgBox("MALWARE", 4 + 64, "virus 2")
